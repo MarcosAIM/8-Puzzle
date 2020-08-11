@@ -1,3 +1,6 @@
 # 8-Puzzle
-Algorithm for Solving the 8-Puzzle Problem
-For now it does not check if it is possible to solve the given puzzle.
+### Description: Algorithm for Solving the 8-Puzzle Problem.
+# Conditions:
+### Input must be a valid 3-3 array of ints.
+### Array of ints must have a valid solution, otherwise algorithm loops forever.
+### Uses a admisible or non-admisible heuristic function.
