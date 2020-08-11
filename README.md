@@ -3,4 +3,4 @@
 # Conditions:
 ### Input must be a valid 3-3 array of ints.
 ### Array of ints must have a valid solution, otherwise algorithm loops forever.
-### Uses a admisible or non-admisible heuristic function.
+### Uses an admisible or non-admisible heuristic function.
